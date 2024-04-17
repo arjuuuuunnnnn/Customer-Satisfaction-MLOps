@@ -49,4 +49,4 @@ streamlit run streamlit_app.py
 ```
 
 link for the dataset is here
-[Olist-customer-data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2)
+[data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2)
